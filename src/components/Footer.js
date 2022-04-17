@@ -5,9 +5,9 @@ const Footer = () => {
         <footer>
             <div className="container">
                 <div className="footer-content">
-                    <p>© Karan Sharma</p>
+                    <p>© Aman Gupta </p>
                     <a
-                        href="https://github.com/JavaKaran/moviepedia"
+                        href="https://github.com/JavaAmanG/Moviepedia"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
